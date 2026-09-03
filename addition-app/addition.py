@@ -1,6 +1,8 @@
 a = 10
 b = 20
 
-result = a + b
+addition = a + b
+subtraction = a - b
 
-print("Addition Result:", result)
+print("Addition Result:", addition)
+print("Subtraction Result:", subtraction)
